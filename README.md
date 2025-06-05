@@ -22,6 +22,9 @@ A simple task manager built with **React** and **Tailwind CSS** as part of an in
 
 ![image](https://github.com/user-attachments/assets/f7ee7934-577b-4100-8ba6-b3e367f7fd29)
 
+![image](https://github.com/user-attachments/assets/d17dddba-5525-4306-8c41-cb59644f9400)
+
+
 
 ### Tech Stack
 
