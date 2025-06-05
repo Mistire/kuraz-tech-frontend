@@ -12,9 +12,16 @@ A simple task manager built with **React** and **Tailwind CSS** as part of an in
 
 
 ### Screenshot
+![image](https://github.com/user-attachments/assets/5701d07b-9785-4c6a-a9f1-db5caf89e258)
 
+![image](https://github.com/user-attachments/assets/921188e9-01c1-49bb-b88e-a39ae636c8d0)
 
-> *You can insert a screenshot of the UI here after development is complete.*
+![image](https://github.com/user-attachments/assets/f25f1f38-356a-4cef-aa10-8d1756c334a8)
+
+![image](https://github.com/user-attachments/assets/f8894c02-792f-4af7-b4e5-5003fff4961b)
+
+![image](https://github.com/user-attachments/assets/f7ee7934-577b-4100-8ba6-b3e367f7fd29)
+
 
 ### Tech Stack
 
