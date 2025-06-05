@@ -1,12 +1,52 @@
-# React + Vite
+## Kuraz Tech Frontend Internship Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple task manager built with **React** and **Tailwind CSS** as part of an internship screening challenge.
 
-Currently, two official plugins are available:
+### Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* View a list of tasks
+* Add new tasks 
+* Mark tasks as completed
+* Delete tasks
+* Filter tasks 
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Screenshot
+
+
+> *You can insert a screenshot of the UI here after development is complete.*
+
+### Tech Stack
+
+* React
+* Tailwindcss
+
+
+### Getting Started
+
+#### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/kuraz-task-manager.git
+cd kuraz-task-manager
+```
+
+#### 2. Install dependencies
+
+```bash
+npm install
+```
+
+#### 3. Start the dev server
+
+```bash
+npm run dev
+```
+
+Visit `http://localhost:5173` in your browser.
+
+### Built With
+
+* React + Vite for fast frontend development
+* Tailwind CSS for styling
+* React Hook Form for easy form handling and validation
